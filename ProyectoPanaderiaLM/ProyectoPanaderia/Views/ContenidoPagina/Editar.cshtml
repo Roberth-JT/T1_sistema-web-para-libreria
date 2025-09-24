@@ -1,0 +1,38 @@
+﻿@model ProyectoPanaderia.Models.ContenidoPagina
+
+@{
+    ViewData["Title"] = "Editar Contenido";
+}
+
+<h2 class="mb-4">Editar Contenido de la Página</h2>
+
+<form asp-action="Editar" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Seccion" class="form-label">Sección</label>
+        <input asp-for="Seccion" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Titulo" class="form-label">Título</label>
+        <input asp-for="Titulo" class="form-control" />
+        <span asp-validation-for="Titulo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Contenido" class="form-label">
+            @(Model.Seccion.StartsWith("Carrusel") || Model.Seccion.Contains("Imagen") ? "Ruta de imagen" : "Contenido textual")
+        </label>
+        <textarea asp-for="Contenido" class="form-control" rows="5"></textarea>
+        <span asp-validation-for="Contenido" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary ms-2">Cancelar</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

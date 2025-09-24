@@ -1,0 +1,18 @@
+﻿@model ProyectoPanaderia.Models.ContenidoPagina
+@using System.Security.Claims
+
+@{
+    ViewData["Title"] = "Política de Privacidad";
+    bool esAdmin = User.IsInRole("Administrador");
+}
+
+<div class="container mt-4">
+    <h2 class="text-brown">@Model?.Titulo</h2>
+    <hr />
+    <p class="text-muted">@Model?.Contenido</p>
+
+    @if (esAdmin && Model != null)
+    {
+        <a class="btn btn-sm btn-warning" asp-controller="ContenidoPagina" asp-action="Editar" asp-route-id="@Model.Id">Editar Política</a>
+    }
+</div>

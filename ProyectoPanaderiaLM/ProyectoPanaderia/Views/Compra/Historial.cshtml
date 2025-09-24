@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ProyectoPanaderia.Models.Compra>
+@{
+    ViewData["Title"] = "Historial de Compras";
+}
+<h2 class="mb-4">Historial de Compras</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+@if (Model != null && Model.Any())
+{
+    @foreach (var compra in Model)
+    {
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">Pedido #@compra.Id - Fecha: @compra.Fecha.ToShortDateString()</h5>
+                <p class="mb-0">Total: @compra.MontoTotal.ToString("C")</p>
+            </div>
+            <div class="card-body">
+                <h6>Productos:</h6>
+                <ul class="list-group list-group-flush mb-3">
+                    @foreach (var detalle in compra.Detalles)
+                    {
+                        <li class="list-group-item">
+                            @detalle.Producto.Nombre - Cantidad: @detalle.Cantidad - Precio Unitario: @detalle.PrecioUnitario.ToString("C") - Subtotal: @detalle.PrecioTotal.ToString("C")
+                        </li>
+                    }
+                </ul>
+                <h6>Detalles de Entrega y Pago:</h6>
+                <p><strong>Dirección:</strong> @compra.DireccionEntrega</p>
+                @if (!string.IsNullOrEmpty(compra.Referencia))
+                {
+                    <p><strong>Referencia:</strong> @compra.Referencia</p>
+                }
+                <p><strong>Método de Pago:</strong> @compra.MetodoPago</p>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="alert alert-info">
+        <p>No tienes compras registradas aún.</p>
+    </div>
+}

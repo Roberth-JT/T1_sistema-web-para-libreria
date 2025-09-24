@@ -1,0 +1,121 @@
+﻿@model List<ProyectoPanaderia.Models.ContenidoPagina>
+@using System.Security.Claims
+
+@{
+    ViewData["Title"] = "Bienvenido";
+    bool esAdmin = User.IsInRole("Administrador");
+
+    var carrusel1 = Model.FirstOrDefault(c => c.Seccion == "Carrusel1");
+    var carrusel2 = Model.FirstOrDefault(c => c.Seccion == "Carrusel2");
+    var carrusel3 = Model.FirstOrDefault(c => c.Seccion == "Carrusel3");
+    var bienvenidaTexto = Model.FirstOrDefault(c => c.Seccion == "BienvenidaTexto");
+    var bienvenidaImagen = Model.FirstOrDefault(c => c.Seccion == "BienvenidaImagen");
+    var politica = Model.FirstOrDefault(c => c.Seccion == "PoliticaPrivacidad");
+}
+
+<!-- Carrusel -->
+<div id="carouselBienvenida" class="carousel slide mb-5 rounded overflow-hidden" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        @if (carrusel1 != null)
+        {
+            <div class="carousel-item active position-relative">
+                <img src="@carrusel1.Contenido" class="d-block w-100 banner-img" alt="@carrusel1.Titulo" />
+                @if (esAdmin)
+                {
+                    <a class="btn btn-sm btn-warning position-absolute top-0 end-0 m-2 boton-editar-carrusel"
+                       asp-controller="ContenidoPagina" asp-action="Editar" asp-route-id="@carrusel1.Id">Editar</a>
+                }
+            </div>
+        }
+        @if (carrusel2 != null)
+        {
+            <div class="carousel-item position-relative">
+                <img src="@carrusel2.Contenido" class="d-block w-100 banner-img" alt="@carrusel2.Titulo" />
+                @if (esAdmin)
+                {
+                    <a class="btn btn-sm btn-warning position-absolute top-0 end-0 m-2 boton-editar-carrusel"
+                       asp-controller="ContenidoPagina" asp-action="Editar" asp-route-id="@carrusel2.Id">Editar</a>
+                }
+            </div>
+        }
+        @if (carrusel3 != null)
+        {
+            <div class="carousel-item position-relative">
+                <img src="@carrusel3.Contenido" class="d-block w-100 banner-img" alt="@carrusel3.Titulo" />
+                @if (esAdmin)
+                {
+                    <a class="btn btn-sm btn-warning position-absolute top-0 end-0 m-2 boton-editar-carrusel"
+                       asp-controller="ContenidoPagina" asp-action="Editar" asp-route-id="@carrusel3.Id">Editar</a>
+                }
+            </div>
+        }
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselBienvenida" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+        <span class="visually-hidden">Anterior</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselBienvenida" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+        <span class="visually-hidden">Siguiente</span>
+    </button>
+</div>
+
+<!-- Bienvenida -->
+<section class="bienvenida-box">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 mb-4 mb-md-0">
+                @if (bienvenidaImagen != null)
+                {
+                    <img src="@bienvenidaImagen.Contenido" alt="@bienvenidaImagen.Titulo" class="img-fluid rounded shadow-sm">
+                    @if (esAdmin)
+                    {
+                        <a class="btn btn-sm btn-warning mt-2" asp-controller="ContenidoPagina" asp-action="Editar" asp-route-id="@bienvenidaImagen.Id">Editar Imagen</a>
+                    }
+                }
+            </div>
+            <div class="col-md-6 text-center text-md-start">
+                @if (bienvenidaTexto != null)
+                {
+                    <h1 class="fw-bold text-brown mb-3">@bienvenidaTexto.Titulo</h1>
+                    <p class="lead text-secondary mb-2">@bienvenidaTexto.Contenido</p>
+                    @if (esAdmin)
+                    {
+                        <a class="btn btn-sm btn-warning" asp-controller="ContenidoPagina" asp-action="Editar" asp-route-id="@bienvenidaTexto.Id">Editar Texto</a>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Estilos -->
+<style>
+    .banner-img {
+        height: 460px;
+        object-fit: cover;
+        pointer-events: none; /* <- Para permitir clic en botones encima */
+    }
+
+    .boton-editar-carrusel {
+        z-index: 10;
+        pointer-events: auto; /* <- Asegura que el botón reciba clics */
+    }
+
+    .bienvenida-box {
+        background-color: #fffdf9;
+        padding: 60px 30px;
+        border-radius: 14px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    }
+
+    .text-brown {
+        color: #8e4e20;
+    }
+
+    @@media (max-width: 768px) {
+        .banner-img {
+            height: 220px;
+        }
+    }
+</style>

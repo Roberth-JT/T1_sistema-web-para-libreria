@@ -1,0 +1,61 @@
+﻿@model List<ProyectoPanaderia.Models.Compra> 
+
+@{
+    ViewData["Title"] = "Compras";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4">Todas las Compras de Clientes</h1>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID Pedido</th>
+                    <th>Fecha</th>
+                    <th>Total</th>
+                    <th>Cliente</th>
+                    <th>Detalles del Pedido</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var compra in Model)
+                {
+                    <tr>
+                        <td>@compra.Id</td>
+                        <td>@compra.Fecha.ToShortDateString()</td>
+                        <td>@compra.MontoTotal.ToString("C")</td>
+                        
+                        <td>@(compra.Usuario != null ? compra.Usuario.Nombre : "N/A")</td>
+                        
+                        <td>
+                            @if (compra.Detalles != null && compra.Detalles.Any())
+                            {
+                                <ul>
+                                    @foreach (var detalle in compra.Detalles)
+                                    {
+                                        <li>
+                                            @(detalle.Producto != null ? detalle.Producto.Nombre : "Producto Desconocido") 
+                                            (@detalle.Cantidad) - @detalle.PrecioUnitario.ToString("C")
+                                        </li>
+                                    }
+                                </ul>
+                            }
+                            else
+                            {
+                                <span>Sin detalles de productos</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info" role="alert">
+            No hay compras registradas en el sistema.
+        </div>
+    }
+</div>

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<ProyectoPanaderia.Models.Producto>
+@{
+    ViewData["Title"] = "Catálogo de Productos";
+}
+
+<h2 class="mb-4">Productos Disponibles</h2>
+
+@if (User.IsInRole("Administrador") || User.IsInRole("Empleado"))
+{
+    <a asp-action="Crear" class="btn btn-success mb-3">Nuevo Producto</a>
+}
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var p in Model)
+    {
+        <div class="col">
+            <div class="card h-100 border-0 shadow-sm">
+                <div class="row g-0">
+                    <!-- Imagen a la izquierda -->
+                    <div class="col-5">
+                        @if (!string.IsNullOrWhiteSpace(p.Imagen))
+                        {
+                            <img src="@p.Imagen" class="img-fluid rounded-start" style="height: 100%; object-fit: cover;" alt="Imagen del producto" onerror="this.style.display='none';" />
+                        }
+                        else
+                        {
+                            <div class="bg-light d-flex align-items-center justify-content-center text-muted" style="height: 100%; min-height: 150px;">
+                                Sin imagen
+                            </div>
+                        }
+                    </div>
+
+                    <!-- Contenido a la derecha -->
+                    <div class="col-7">
+                        <div class="card-body d-flex flex-column justify-content-between h-100">
+                            <div>
+                                <h5 class="card-title">@p.Nombre</h5>
+                                <p class="card-text">@p.Descripcion</p>
+                                <p class="fw-bold text-dark">S/ @p.Precio.ToString("0.00")</p>
+                            </div>
+                            <div class="mt-2 d-flex flex-wrap gap-1">
+                                @if (User.IsInRole("Administrador") || User.IsInRole("Empleado"))
+                                {
+                                    <a asp-action="Editar" asp-route-id="@p.Id" class="btn btn-outline-warning btn-sm">Editar</a>
+                                    <form asp-action="Eliminar" asp-route-id="@p.Id" method="post" onsubmit="return confirm('¿Estás seguro de que deseas eliminar este producto?');">
+                                        @Html.AntiForgeryToken()
+                                        <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                                    </form>
+                                }
+
+                                @if (User.Identity.IsAuthenticated && User.IsInRole("Cliente"))
+                                {
+                                    <form asp-action="Agregar" asp-route-productoId="@p.Id" method="post">
+                                        @Html.AntiForgeryToken()
+                                        <button type="submit" class="btn btn-primary btn-sm">
+                                            <i class="bi bi-cart-plus"></i> Agregar al carrito
+                                        </button>
+                                    </form>
+                                }
+                                else if (!User.Identity.IsAuthenticated)
+                                {
+                                    <a href="~/Cuenta/Login" class="btn btn-primary btn-sm">
+                                        <i class="bi bi-cart-plus"></i> Inicia sesión para comprar
+                                    </a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

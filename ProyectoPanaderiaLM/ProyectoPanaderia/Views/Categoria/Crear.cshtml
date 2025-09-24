@@ -1,0 +1,22 @@
+﻿@model ProyectoPanaderia.Models.Categoria
+@{
+    ViewData["Title"] = "Nueva Categoría";
+}
+<h2 class="mb-3">Nueva Categoría</h2>
+
+<form asp-action="Crear" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="mb-3">
+        <label asp-for="Nombre" class="form-label"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

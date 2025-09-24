@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Panadería La Marquinita</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
+    <style>
+        body {
+            background-color: #fdf6ed;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .navbar, footer {
+            background-color: #f8efe3;
+        }
+
+        .navbar-brand, .nav-link, .footer {
+            color: #5e4b3c !important;
+            font-weight: 500;
+        }
+
+            .nav-link.active {
+                font-weight: bold;
+                border-bottom: 2px solid #c99e71;
+            }
+
+        .btn-primary {
+            background-color: #c99e71;
+            border-color: #b1885e;
+        }
+
+            .btn-primary:hover {
+                background-color: #ae855f;
+            }
+
+        .container, .card {
+            border-radius: 14px;
+        }
+
+        .alert {
+            border-radius: 10px;
+        }
+
+        @@media (max-width: 768px) {
+            .navbar-brand img {
+                height: 40px;
+            }
+
+            .navbar-brand .text-brown {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg shadow-sm mb-4 rounded-bottom">
+            <div class="container">
+                <a class="navbar-brand d-flex align-items-center" asp-controller="Home" asp-action="Index">
+                    <img src="~/img/logo.png" alt="Logo" width="50" height="50" class="me-2 rounded shadow-sm" />
+                    <div class="d-flex flex-column lh-sm">
+                        <span style="font-size: 0.85rem;">Panadería</span>
+                        <span class="fw-bold text-brown" style="font-size: 1.2rem;">La Marquinita</span>
+                    </div>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+                    <span class="fas fa-bars text-brown"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewContext.RouteData.Values["controller"]?.ToString() == "Producto" ? "active" : "")" asp-controller="Producto" asp-action="Index">Productos</a>
+                        </li>
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            if (User.IsInRole("Administrador"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link @(ViewContext.RouteData.Values["controller"]?.ToString() == "Categoria" ? "active" : "")" asp-controller="Categoria" asp-action="Index">Categorías</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link @(ViewContext.RouteData.Values["controller"]?.ToString() == "Compra" ? "active" : "")" asp-controller="Compra" asp-action="Index">Compras</a>
+                                </li>
+                            }
+                            else if (User.IsInRole("Empleado"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link @(ViewContext.RouteData.Values["controller"]?.ToString() == "Compra" ? "active" : "")" asp-controller="Compra" asp-action="Index">Compras</a>
+                                </li>
+                            }
+                            else if (User.IsInRole("Cliente"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link @(ViewContext.RouteData.Values["controller"]?.ToString() == "Carrito" ? "active" : "")" asp-controller="Carrito" asp-action="Index">Mi Carrito</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link @(ViewContext.RouteData.Values["action"]?.ToString() == "Historial" ? "active" : "")" asp-controller="Compra" asp-action="Historial">Mis Compras</a>
+                                </li>
+                            }
+                        }
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <span class="nav-link">Hola, @User.Identity.Name!</span>
+                            </li>
+                            <li class="nav-item">
+                                <!-- Cerrar sesion -->
+                                <button type="button" class="btn btn-sm btn-link nav-link" data-bs-toggle="modal" data-bs-target="#confirmLogoutModal">
+                                    Cerrar sesión
+                                </button>
+
+                                <!-- Confirmación cerrar sesion -->
+                                <div class="modal fade" id="confirmLogoutModal" tabindex="-1" aria-labelledby="logoutModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h5 class="modal-title" id="logoutModalLabel">Confirmar cierre de sesión</h5>
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                ¿Estás seguro de que deseas cerrar tu sesión?
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                                                <form asp-controller="Cuenta" asp-action="Logout" method="post" class="d-inline">
+                                                    <button type="submit" class="btn btn-danger">Cerrar sesión</button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link @(ViewContext.RouteData.Values["action"]?.ToString() == "Registro" ? "active" : "")" asp-controller="Cuenta" asp-action="Registro">Registrarse</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link @(ViewContext.RouteData.Values["action"]?.ToString() == "Login" ? "active" : "")" asp-controller="Cuenta" asp-action="Login">Iniciar sesión</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container py-3">
+        <main role="main">
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    @TempData["SuccessMessage"]
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Cerrar"></button>
+                </div>
+            }
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    @TempData["ErrorMessage"]
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Cerrar"></button>
+                </div>
+            }
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer py-3 border-top mt-4">
+        <div class="container text-center">
+            &copy; @DateTime.Now.Year - Panadería La Marquinita - <a asp-controller="Home" asp-action="Privacy">Política de Privacidad</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

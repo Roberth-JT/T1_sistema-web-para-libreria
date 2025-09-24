@@ -1,0 +1,65 @@
+﻿@model ProyectoPanaderia.ViewModels.RegistroVM
+@{
+    ViewData["Title"] = "Registro";
+}
+
+<link rel="stylesheet" href="~/css/Registro.css" />
+
+<div class="registro-wrapper">
+    <!-- Lado izquierdo: logo -->
+    <div class="registro-left">
+        <img src="~/img/logo.png" alt="Panadería La Marquinita" />
+    </div>
+
+    <!-- Lado derecho: formulario -->
+    <div class="registro-right">
+        <div class="form-container">
+            <h2>Crear Cuenta</h2>
+
+            <form asp-action="Registro" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="mb-3">
+                    <label asp-for="Nombre" class="form-label">Nombre</label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Correo" class="form-label">Correo</label>
+                    <input asp-for="Correo" class="form-control" />
+                    <span asp-validation-for="Correo" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Contraseña" class="form-label">Contraseña</label>
+                    <input asp-for="Contraseña" class="form-control" type="password" />
+                    <span asp-validation-for="Contraseña" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="ConfirmarContraseña" class="form-label">Confirmar Contraseña</label>
+                    <input asp-for="ConfirmarContraseña" class="form-control" type="password" />
+                    <span asp-validation-for="ConfirmarContraseña" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="RolId" class="form-label">Selecciona tu Rol</label>
+                    <select asp-for="RolId" class="form-select" asp-items="@(new SelectList(ViewBag.Roles, "Id", "Nombre"))">
+                        <option value="">-- Elige un rol --</option>
+
+
+                    </select>
+                    <span asp-validation-for="RolId" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Registrarse</button>
+                <a asp-action="Login" class="btn btn-link">¿Ya tienes cuenta? Inicia sesión</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

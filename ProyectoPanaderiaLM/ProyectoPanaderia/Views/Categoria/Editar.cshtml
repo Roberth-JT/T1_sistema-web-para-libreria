@@ -1,0 +1,23 @@
+﻿@model ProyectoPanaderia.Models.Categoria
+@{
+    ViewData["Title"] = "Editar Categoría";
+}
+<h2 class="mb-3">Editar Categoría</h2>
+
+<form asp-action="Editar" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Nombre" class="form-label"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

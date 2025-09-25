@@ -81,32 +81,32 @@ namespace ProyectoPanaderia.Data
                 new ContenidoPagina
                 {
                     Seccion = "Carrusel1",
-                    Titulo = "Pan artesanal",
-                    Contenido = "/img/pan_tradicional.png"
+                    Titulo = "libros1",
+                    Contenido = "/img/lib1.png"
                 },
                 new ContenidoPagina
                 {
                     Seccion = "Carrusel2",
-                    Titulo = "Dulces tradicionales",
-                    Contenido = "/img/dulces.png"
+                    Titulo = "libros2",
+                    Contenido = "/img/lib2.png"
                 },
                 new ContenidoPagina
                 {
                     Seccion = "Carrusel3",
-                    Titulo = "Pan horneado",
-                    Contenido = "/img/pan_horneado.png"
+                    Titulo = "libros3",
+                    Contenido = "/img/lib3.png"
                 },
                 new ContenidoPagina
                 {
                     Seccion = "BienvenidaTexto",
-                    Titulo = "¡Bienvenido a Panadería La Marquinita!",
-                    Contenido = "Desde hace más de 20 años, en el corazón de Cajamarca, horneamos con amor productos que celebran nuestras raíces y sabores tradicionales."
+                    Titulo = "¡Bienvenido a Libreria Lumen!",
+                    Contenido = "Desde hace más de 20 años, en el corazón de Cajamarca, ofrecemos libros para todas las edades y gustos, acercando la lectura a nuestra comunidad."
                 },
                 new ContenidoPagina
                 {
                     Seccion = "BienvenidaImagen",
                     Titulo = "Fachada de Panadería",
-                    Contenido = "/img/Bienvenida_LM.png"
+                    Contenido = "/img/libreria.png"
                 },
                 new ContenidoPagina
                 {

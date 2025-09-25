@@ -1,161 +1,205 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\",
+  "WorkspaceRootPath": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\carrito\\confirmacioncompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\carrito\\confirmacioncompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\cuenta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\cuenta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\cuenta\\accesidenegado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\cuenta\\accesidenegado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\viewmodels\\registrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\viewmodels\\registrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\carrito\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\carrito\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\carrito\\revieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\carrito\\revieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\categoria\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\categoria\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\cuenta\\accesidenegado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\cuenta\\accesidenegado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\cuenta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\cuenta\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250924231611_Migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoPanaderia\\Migrations\\20250924231611_Migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\contenidopagina\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\contenidopagina\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\compra\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\compra\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\compra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\compra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\viewmodels\\registrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\viewmodels\\registrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\controllers\\contenidopaginacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\controllers\\contenidopaginacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\contenidopaginacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UPN-2025-II\\Proyecto Pruebas y Calidad De Software\\SISWEBBOTICA\\SISWEBBOTICA\\Models\\TipoUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\proyectopanaderia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\proyectopanaderia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\proyectopanaderia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\historialcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\historialcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\historialcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\contenidopagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\contenidopagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\contenidopagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\migrations\\20250706152212_migracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\migrations\\20250706152212_migracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\migrations\\20250706121949_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\migrations\\20250706121949_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115945_Mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -164,15 +208,11 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115242_Mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\views\\contenidopagina\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\views\\contenidopagina\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\models\\direccionenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\models\\direccionenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\models\\direccionenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -188,11 +228,11 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052321_Mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|d:\\proyecto_dise\u00F1o y arqui.soft\\proyectopanaderia_final\\proyectopanaderialm\\proyectopanaderia\\wwwroot\\css\\estilo_inicio_pagina..css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|c:\\users\\lisbe\\source\\repos\\t1_sistema-web-para-libreria\\proyectopanaderialm\\proyectopanaderia\\wwwroot\\css\\estilo_inicio_pagina..css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EFE7B984-F233-467B-A668-247C7A9AB0B8}|ProyectoPanaderia\\ProyectoPanaderia.csproj|solutionrelative:proyectopanaderia\\wwwroot\\css\\estilo_inicio_pagina..css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -203,64 +243,392 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Categoria\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Categoria\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Categoria\\Crear.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Categoria\\Crear.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T20:15:04.319Z"
+              "WhenOpened": "2025-09-24T22:46:37.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T21:48:28.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "RegistroVM.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
-              "RelativeToolTip": "ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "ProyectoPanaderia\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T00:49:51.596Z"
+              "WhenOpened": "2025-09-24T23:50:35.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwJwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T21:49:47.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA5wBoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwGIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T04:55:53.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ProyectoPanaderia\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:43:01.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T21:47:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfirmacionCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\ConfirmacionCompra.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Carrito\\ConfirmacionCompra.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\ConfirmacionCompra.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Carrito\\ConfirmacionCompra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:19:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoPanaderia\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:40:04.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "ProyectoPanaderia\\Controllers\\CompraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:31:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T21:48:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T21:49:19.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:32:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:32:34.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Carrito\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\Checkout.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Carrito\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:20:09.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Carrito\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\Index.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Carrito\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:18:41.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T21:49:47.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\ReviewOrder.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Carrito\\ReviewOrder.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Carrito\\ReviewOrder.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Carrito\\ReviewOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:19:18.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:46:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Categoria\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Categoria\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Categoria\\Editar.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Categoria\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:46:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250924231611_Migracion.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250924231611_Migracion.cs",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Migrations\\20250924231611_Migracion.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250924231611_Migracion.cs",
+              "RelativeToolTip": "ProyectoPanaderia\\Migrations\\20250924231611_Migracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:16:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T07:45:34.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccesiDenegado.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T01:26:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T17:38:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T21:47:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T09:13:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Historial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Compra\\Historial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Compra\\Historial.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Compra\\Historial.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Compra\\Historial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:46:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Compra\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Compra\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Compra\\Index.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Compra\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T22:45:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T20:04:57.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProyectoPanaderia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T20:15:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\Usuario.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Usuario.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\Usuario.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,35 +636,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Cuenta\\Registro.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T21:47:19.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccesiDenegado.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Cuenta\\AccesiDenegado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T01:26:02.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Program.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Program.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Program.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,47 +648,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Cuenta\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T17:38:45.091Z"
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\appsettings.json",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\appsettings.json",
+              "RelativeToolTip": "ProyectoPanaderia\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T21:54:17.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T20:04:57.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProyectoPanaderia\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "RegistroVM.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
+              "RelativeDocumentMoniker": "ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
+              "RelativeToolTip": "ProyectoPanaderia\\VIewModels\\RegistroVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T07:40:04.644Z"
+              "WhenOpened": "2025-09-18T00:49:51.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 34,
               "Title": "CuentaController.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CuentaController.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\CuentaController.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CuentaController.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Controllers\\CuentaController.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwHcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +685,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 35,
               "Title": "CarritoController.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CarritoController.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\CarritoController.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CarritoController.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Controllers\\CarritoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +697,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 33,
               "Title": "Rol.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Rol.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Rol.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\Rol.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Rol.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,11 +709,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "ProductoVM.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\ProductoVM.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\ProductoVM.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\VIewModels\\ProductoVM.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\ProductoVM.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\ProductoVM.cs",
               "RelativeToolTip": "ProyectoPanaderia\\VIewModels\\ProductoVM.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,35 +721,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\appsettings.json",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\appsettings.json",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\appsettings.json",
-              "RelativeToolTip": "ProyectoPanaderia\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-05T21:54:17.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CompraController.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CompraController.cs",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\CompraController.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CompraController.cs",
-              "RelativeToolTip": "ProyectoPanaderia\\Controllers\\CompraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T12:31:50.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 37,
               "Title": "LoginVM.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\VIewModels\\LoginVM.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\VIewModels\\LoginVM.cs",
               "RelativeToolTip": "ProyectoPanaderia\\VIewModels\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +733,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 38,
               "Title": "ContenidoPaginaController.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ContenidoPaginaController.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ContenidoPaginaController.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\ContenidoPaginaController.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ContenidoPaginaController.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ContenidoPaginaController.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Controllers\\ContenidoPaginaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +745,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\favicon.ico",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\wwwroot\\favicon.ico",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
               "RelativeToolTip": "ProyectoPanaderia\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
               "WhenOpened": "2025-09-18T01:51:34.877Z",
@@ -448,34 +757,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "TipoUsuario.cs",
               "DocumentMoniker": "D:\\UPN-2025-II\\Proyecto Pruebas y Calidad De Software\\SISWEBBOTICA\\SISWEBBOTICA\\Models\\TipoUsuario.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\UPN-2025-II\\Proyecto Pruebas y Calidad De Software\\SISWEBBOTICA\\SISWEBBOTICA\\Models\\TipoUsuario.cs",
               "ToolTip": "D:\\UPN-2025-II\\Proyecto Pruebas y Calidad De Software\\SISWEBBOTICA\\SISWEBBOTICA\\Models\\TipoUsuario.cs",
-              "RelativeToolTip": "..\\..\\..\\UPN-2025-II\\Proyecto Pruebas y Calidad De Software\\SISWEBBOTICA\\SISWEBBOTICA\\Models\\TipoUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T01:53:44.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 41,
               "Title": "ProyectoPanaderia",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
+              "DocumentMoniker": "C:\\Users\\lisbe\\Source\\Repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\ProyectoPanaderia.csproj",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
+              "ToolTip": "C:\\Users\\lisbe\\Source\\Repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
               "RelativeToolTip": "ProyectoPanaderia\\ProyectoPanaderia.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-18T00:16:05.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 42,
               "Title": "DetalleCompra.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DetalleCompra.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\DetalleCompra.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DetalleCompra.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\DetalleCompra.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,23 +790,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20250706152212_migracion1.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706152212_migracion1.cs",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Migrations\\20250706152212_migracion1.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706152212_migracion1.cs",
-              "RelativeToolTip": "ProyectoPanaderia\\Migrations\\20250706152212_migracion1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T15:22:13.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 48,
               "Title": "ContenidoPagina.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ContenidoPagina.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ContenidoPagina.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\ContenidoPagina.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ContenidoPagina.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ContenidoPagina.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\ContenidoPagina.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,11 +802,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 47,
               "Title": "Carrito.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Carrito.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\Carrito.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Carrito.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\Carrito.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -519,11 +814,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 43,
               "Title": "Compra.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Compra.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Compra.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\Compra.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Compra.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\Compra.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -531,11 +826,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 44,
               "Title": "HistorialCompra.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\HistorialCompra.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\HistorialCompra.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\HistorialCompra.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\HistorialCompra.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\HistorialCompra.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\HistorialCompra.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +838,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 45,
               "Title": "Producto.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\Producto.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Producto.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\Producto.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -555,11 +850,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 46,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\Categoria.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\Categoria.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -567,11 +862,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 49,
               "Title": "CategoriaController.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\CategoriaController.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Controllers\\CategoriaController.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -579,127 +874,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ProyectoPanaderia\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T15:14:04.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20250706121949_Mig1.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706121949_Mig1.cs",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Migrations\\20250706121949_Mig1.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706121949_Mig1.cs",
-              "RelativeToolTip": "ProyectoPanaderia\\Migrations\\20250706121949_Mig1.cs",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T12:19:49.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Producto\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T21:49:19.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Producto\\Editar.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T21:48:53.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Producto\\Crear.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T21:48:28.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T07:45:34.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T21:47:46.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "ProyectoPanaderia\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAADwv0MAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T21:43:01.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 50,
               "Title": "20250706115945_Mig1.cs",
               "DocumentMoniker": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115945_Mig1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115945_Mig1.cs",
               "ToolTip": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115945_Mig1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115945_Mig1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T11:59:45.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 51,
               "Title": "20250706115242_Mig1.cs",
               "DocumentMoniker": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115242_Mig1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115242_Mig1.cs",
               "ToolTip": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115242_Mig1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706115242_Mig1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T11:52:42.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 52,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -707,23 +910,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
-              "RelativeDocumentMoniker": "ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
-              "RelativeToolTip": "ProyectoPanaderia\\Views\\ContenidoPagina\\Editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T09:13:53.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 53,
               "Title": "DireccionEnvio.cs",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DireccionEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DireccionEnvio.cs",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\Models\\DireccionEnvio.cs",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DireccionEnvio.cs",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Models\\DireccionEnvio.cs",
               "RelativeToolTip": "ProyectoPanaderia\\Models\\DireccionEnvio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -731,51 +922,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 54,
               "Title": "20250706054343_Mig1.cs",
               "DocumentMoniker": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706054343_Mig1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706054343_Mig1.cs",
               "ToolTip": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706054343_Mig1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706054343_Mig1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T05:43:43.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 56,
               "Title": "20250706052618_Mig1.cs",
               "DocumentMoniker": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052618_Mig1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052618_Mig1.cs",
               "ToolTip": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052618_Mig1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052618_Mig1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T05:26:18.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 57,
               "Title": "20250706052321_Mig1.cs",
               "DocumentMoniker": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052321_Mig1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052321_Mig1.cs",
               "ToolTip": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052321_Mig1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706052321_Mig1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T05:23:21.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 55,
               "Title": "20250706053047_Mig1.cs",
               "DocumentMoniker": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706053047_Mig1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706053047_Mig1.cs",
               "ToolTip": "C:\\Users\\lisbe\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706053047_Mig1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documentos\\UPN 2025_1\\Dise\u00F1o y aquitectura de software\\ProyectoPanaderiaLM_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\Migrations\\20250706053047_Mig1.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T05:30:47.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 59,
               "Title": "Estilo_Inicio_pagina..css",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Estilo_Inicio_pagina..css",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Estilo_Inicio_pagina..css",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\wwwroot\\css\\Estilo_Inicio_pagina..css",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Estilo_Inicio_pagina..css",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Estilo_Inicio_pagina..css",
               "RelativeToolTip": "ProyectoPanaderia\\wwwroot\\css\\Estilo_Inicio_pagina..css",
               "ViewState": "AgIAAFEAAAAAAAAAAAAQwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -783,11 +982,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 58,
               "Title": "Registro.css",
-              "DocumentMoniker": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Registro.css",
+              "DocumentMoniker": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Registro.css",
               "RelativeDocumentMoniker": "ProyectoPanaderia\\wwwroot\\css\\Registro.css",
-              "ToolTip": "D:\\Proyecto_Dise\u00F1o y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Registro.css",
+              "ToolTip": "C:\\Users\\lisbe\\source\\repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\wwwroot\\css\\Registro.css",
               "RelativeToolTip": "ProyectoPanaderia\\wwwroot\\css\\Registro.css",
               "ViewState": "AgIAAFIAAAAAAAAAAAAQwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

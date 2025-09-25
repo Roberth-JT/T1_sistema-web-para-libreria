@@ -7798,23 +7798,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Users\\lisbe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyecto_Diseño y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
+      "projectUniqueName": "C:\\Users\\lisbe\\Source\\Repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
       "projectName": "ProyectoPanaderia",
-      "projectPath": "D:\\Proyecto_Diseño y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyecto_Diseño y arqui.soft\\ProyectoPanaderia_Final\\ProyectoPanaderiaLM\\ProyectoPanaderia\\obj\\",
+      "projectPath": "C:\\Users\\lisbe\\Source\\Repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\ProyectoPanaderia.csproj",
+      "packagesPath": "C:\\Users\\lisbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lisbe\\Source\\Repos\\T1_sistema-web-para-libreria\\ProyectoPanaderiaLM\\ProyectoPanaderia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lisbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7841,7 +7841,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -7899,7 +7899,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

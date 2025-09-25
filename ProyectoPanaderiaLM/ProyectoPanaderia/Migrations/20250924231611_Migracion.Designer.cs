@@ -12,8 +12,8 @@ using ProyectoPanaderia.Data;
 namespace ProyectoPanaderia.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250706121949_Mig1")]
-    partial class Mig1
+    [Migration("20250924231611_Migracion")]
+    partial class Migracion
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

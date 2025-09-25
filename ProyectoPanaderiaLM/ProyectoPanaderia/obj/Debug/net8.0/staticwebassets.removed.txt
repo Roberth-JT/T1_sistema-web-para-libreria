@@ -1,0 +1,3 @@
+C:\Users\lisbe\Source\Repos\T1_sistema-web-para-libreria\ProyectoPanaderiaLM\ProyectoPanaderia\wwwroot\img_prod\agendas.png
+C:\Users\lisbe\Source\Repos\T1_sistema-web-para-libreria\ProyectoPanaderiaLM\ProyectoPanaderia\wwwroot\img_prod\colores.png
+C:\Users\lisbe\Source\Repos\T1_sistema-web-para-libreria\ProyectoPanaderiaLM\ProyectoPanaderia\wwwroot\img_prod\lapices.png
